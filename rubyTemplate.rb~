@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+
+require 'logger'
+
+log = Logger.new('log.txt')
+
+log.debug "Log file created"
+puts 'Log file created'
+
+
+
+
+log.debug "Program completed"
+puts 'Program completed'

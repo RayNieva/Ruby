@@ -1,0 +1,285 @@
+---
+- |2+
+
+- |
+  (setq truncate-lines 'nil) (setq truncate-lines 't)
+- |2+
+
+- Date: <2017-04-12 Wed 12:56> 
+- |
+  Position: Test Position
+- |
+  Payrate: Don't Know
+- |
+  Employer name/address/phone/URL: Home Business
+- |
+  Person Contacted: Myself
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In person
+- |
+  Results: Don't know want to see where this goes (file location). This is a whole new file in a different active location. Location is ~/appdata/roaming/org.
+- |2+
+
+- Date: <2017-04-14 Fri 08:28> 
+- |
+  Position: Support Engineer
+- |
+  Payrate: $30/hr
+- |
+  Employer name/address/phone/URL: Complete Staffing Marlborough
+- |
+  Person Contacted: Matthew Sweatman
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+- |
+  Results: Sent updated resume to include Pageflex position.
+- |2+
+
+- Date: <2017-04-14 Fri 08:28> 
+- |
+  Position: Support Engineer/ Potential IT Manager
+- |
+  Payrate: $30/hr
+- |
+  Employer name/address/phone/URL: Complete Staffing Marlborough
+- Person Contacted: Joan Hatstat 
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+- |
+  Results: Sent updated resume to include Pageflex position. Had some opportunities in the past
+- |2+
+
+- Date: <2017-04-15 Sat 22:51> 
+- |
+  Position: IT Applications System Analyst
+- |
+  Payrate: $60K /yr
+- |
+  Employer name/address/phone/URL: Olympus Corp of America
+- |
+  Person Contacted: Kim Hule
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: phone/email
+- |
+  Results: Finished Application online as recommended by Kim. A preliminary interview has been set up for this coming Thursday.
+- |2+
+
+- Date: <2017-04-18 Tue 09:30> 
+- |
+  Position: DB Administrator
+- |
+  Payrate: $80K/Yr
+- |
+  Employer name/address/phone/URL: ETRCC
+- |
+  Person Contacted: Lisa Rosen
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: networking, http://etrcc.com/, 508.766.5700
+- |
+  Results: Attended Tuesday meeting and engaged with group to learn many new things about jobsearch.
+- |2+
+
+- Date: <2017-04-20 Thu 12:53> 
+- |
+  Position: IT Applications Analyst
+- |
+  Payrate: $60K/yr
+- |
+  Employer name/address/phone/URL:
+- |
+  Person Contacted: Liz and Kim Huie (ETRCC)
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: interview
+- |
+  Results: Interview went well based on initial feedback
+- |2+
+
+- Date: <2017-04-21 Fri 20:54>
+- |
+  Position: IT Generalist
+- |
+  Payrate: $60K
+- |
+  Employer name/address/phone/URL: ETRCC/Worcester Rd. Framingham
+- |
+  Person Contacted: Joyce K
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email, web
+- |
+  Results: Worked on registering with one lead (Footbridge companies)
+- |2+
+
+- Date: <2017-04-22 Sat 20:50> 
+- |
+  Position: IT Generalist
+- |
+  Payrate: $60K/yr
+- |
+  Employer name/address/phone/URL: Monster.com
+- |
+  Person Contacted: Jennifer
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: Web
+- |
+  Results: Updated to latest resume using new automated programmable XML resume.
+- |2+
+
+- Date: <2017-04-24 Mon 22:55>
+- |
+  Position: Sr. Business Systems Analyst
+- |
+  Payrate: $60K/yr
+- |
+  Employer name/address/phone/URL: American Tower
+- |
+  Person Contacted: Anonymous
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: Web
+- |
+  Results: Applying on website
+- |2+
+
+- Date: <2017-04-25 Tue 09:30> 
+- |
+  Position: DB Administrator
+- |
+  Payrate: $80K/Yr
+- |
+  Employer name/address/phone/URL: ETRCC
+- |
+  Person Contacted: Lisa Rosen
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: networking, http://etrcc.com/, 508.766.5700
+- |
+  Results: Attended Tuesday meeting and engaged with group to learn many new things about jobsearch.
+- |2+
+
+- Date: <2017-04-26 Wed 10:10> 
+- |
+  Position: IT Generalist
+- |
+  Payrate: $60K/yr
+- |
+  Employer name/address/phone/URL: michael.goodman@rht.com
+- |
+  Person Contacted: Michael Goodman
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email, phone
+- |
+  Results: replyed by email and following up by phone
+- |2+
+
+- Date: <2017-04-29 Sat 07:22> 
+- |
+  Position: IT Generalist
+- |
+  Payrate: $60K/yr
+- "Employer name/address/phone/URL: Mathworks \n"
+- |
+  Person Contacted: Glen Arnold garnold@mathworks.com
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: networking
+- |
+  Results: No direct leads informational
+- |2+
+
+- Date: <2017-04-29 Sat 07:26> 
+- |
+  Position: IT Generalist
+- |
+  Payrate: $60K
+- "Employer name/address/phone/URL: ETRCC lrosen@etrcc.com \n"
+- |
+  Person Contacted: Kim Huie
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: networking
+- |
+  Results: Talked to a several people. Need to follow-up.
+- |2+
+
+- Date: <2017-05-01 Mon 11:52> 
+- Position: Solutions Engineer 
+- |
+  Payrate: $60K/yr
+- |
+  Employer name/address/phone/URL: Complete Staffing
+- |
+  Person Contacted: Matt Sweatman
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.:
+- |
+  Results: Waiting for call back
+- |2+
+
+- Date: <2017-05-02 Tue 21:06> 
+- |
+  Position: IT Generalist
+- |
+  Payrate: $60K
+- |
+  Employer name/address/phone/URL: Sceris
+- |
+  Person Contacted: Jim Walcker, Eamon Pac, John Nelson and Don't know name (application mgr)
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In person
+- |
+  Results: Interview seemed to go very well
+- |2+
+
+- Date: <2017-05-03 Wed 08:43>
+- |
+  Position: IT Generalist
+- Payrate: $60K 
+- |
+  Employer name/address/phone/URL: FlexJobs
+- |
+  Person Contacted: Anonymous
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
+- |
+  Results: Renew membership for following year. Specializes in flexible jobs (work at home, flex time,part-time etc..)
+- |2+
+
+- Date: <2017-05-03 Wed 08:55> 
+- |
+  Position: IT Generalist
+- |
+  Payrate: $60k/yr
+- |
+  Employer name/address/phone/URL: Complete Staffing Solutions
+- |
+  Person Contacted: Matt Steadman
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+- |
+  Results: Email follow-up on interview
+- |2+
+
+- Date: <2017-05-04 Thu 13:47> 
+- |
+  Position: IT Generalist
+- |
+  Payrate: $60k/yr
+- |
+  Employer name/address/phone/URL: Complete Staffing Solutions
+- |
+  Person Contacted: Matthew Sweatman
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+- |
+  Results: follow-up on interview last Wednesday
+- |2+
+
+- Date: <2017-05-05 Fri 09:06> 
+- |
+  Position: Business Sales Consultant
+- Payrate: 
+- Employer name/address/phone/URL: Trelevate, trelevate.com  
+- |
+  Person Contacted: Lori Prather, lprather@trelevate.com
+- |
+  HOW CONTACTED - Web, phone, mail, job fair, networking, etc.:
+- |
+  Results: Responded to interview request waiting for feedback
+- |2+
+
