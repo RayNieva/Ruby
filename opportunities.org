@@ -2,39 +2,39 @@
 ** Code:
 ---
 -
-** <2018-11-11 Sun 17:03> OPPORTUNITY: Mass Hire/ Systems Integrator 
-   Date: <2018-11-11 Sun 17:03> 
-   Position: Systems Integrator/VAR
-   Payrate: 90K/yr
-   Employer name/address/phone/URL: Mass Hire
-   Person Contacted: Janice Quaid jmcquaid@masshiremsw.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up requested answered questions regarding case advisor and last day worked.
+* Opportunities - Oct 2018
+** <2018-11-18 Sun 21:56> OPPORTUNITY: LinkedIN
+   Date: <2018-11-18 Sun 21:56> 
+   Position: Systems Integrator VAR
+   Payrate: $90K/yr
+   Employer name/address/phone/URL: http://www.linkedin.com
+   Person Contacted: Matthew Handler  - Recruitment Consultant 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
+   Results: Connected
 -
-** <2018-11-12 Mon 08:49> OPPORTUNITY: Dan's PC
-   Date: <2018-11-12 Mon 08:49> 
-   Position: IT Support
-   Payrate: 50K/yr
-   Employer name/address/phone/URL: Dans PC
-   Person Contacted: Dan Adams dan@danpc.net
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In person
-   Results: Follow-up requested met up at Flat Penny. West St. Berlin
+** <2018-11-19 Mon 21:56> OPPORTUNITY: LinkedIN
+   Date: <2018-11-19 Mon 21:56> 
+   Position: Systems Integrator VAR
+   Payrate: $90K/yr
+   Employer name/address/phone/URL: http://www.linkedin.com
+   Person Contacted: Sankat Arbat  - Recruiter 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
+   Results: Connected
 -
-** <2018-11-13 Tue 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
-   Position: Systems Integrator/ VAR
-   Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Doug Cole <dcole@masshiremsw.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up Requested Fill out BSR packet
+** <2018-11-20 Tue 21:56> OPPORTUNITY: LinkedIN
+   Date: <2018-11-20 Tue 21:56> 
+   Position: Systems Integrator VAR
+   Payrate: $90K/yr
+   Employer name/address/phone/URL: http://www.linkedin.com
+   Person Contacted: Josh Leventhal  - Marketer/Writer 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
+   Results: Connected
 -
-
-** <2018-11-17 Sat 08:49> OPPORTUNITY: Dan's PC
-   Date: <2018-11-17 Sat 08:49> 
-   Position: IT Support
-   Payrate: 50K/yr
-   Employer name/address/phone/URL: Dans PC
-   Person Contacted: Dan Adams dan@danpc.net
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In person
-   Results: Follow-up requested met up at Liberty Tavern. High St. Clinton MA
-
+** <2018-11-21 Wed 21:56> OPPORTUNITY: LinkedIN
+   Date: <2018-11-21 Wed 21:56> 
+   Position: Systems Integrator VAR
+   Payrate: $90K/yr
+   Employer name/address/phone/URL: http://www.linkedin.com
+   Person Contacted: MIRZA ASLAMULLAH BAIG - DBA (Database Administrator) 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
+   Results: Connected
