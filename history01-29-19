@@ -1,0 +1,25 @@
+1
+autoinsurance.bat
+autoinsurancedue.bat
+cd desktop
+ls
+powershell .\sendmail.ps1
+start 1.bat
+powershell .\sendmail.ps1
+autoinsurance.bat
+autoinsurancedue.bat
+carpaymentdue.bat
+C:\Ruby25-x64\bin\ruby.exe C:\Users\rayni\Documents\Projects\Ruby\ConvertYaml2CSVTest.rb
+cd ..
+cd documents
+cd projects
+cd ruby
+C:\Ruby25-x64\bin\ruby.exe C:\Users\rayni\Documents\Projects\Ruby\ConvertYaml2CSVTest.rb
+set worklog_counter=1
+set worklog_counter
+set worklog_counter=worklog_counter + 1
+set worklog_counter
+set /a worklog_counter=1
+set /a worklog_counter=work_counter + 1
+set /a worklog_counter=worklog_counter + 1
+doskey /h > history01-29-19
