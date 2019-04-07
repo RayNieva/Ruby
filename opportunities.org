@@ -3,831 +3,230 @@
 ---
 -
 * Opportunities - Oct 2018
-** <2019-03-11 Mon 20:15> OPPORTUNITY: Business Analyst needed (19-04415 )
- Tulasi Kaipu <saitulasi.kaipu@axelon.com>
-	
-Mon, Mar 11, 2:09 PM (6 days ago)
-	
-to me
-My name is Tulasi and I'm an IT Recruiter at Axelon Services Corporation.  We have your resume on file and I thought you may be interested in an opportunity we currently have available for a Business Analyst with a major ______INSURANCE COMPANY_____________ company located in Springfield, MA.  Please review the job description below. 
+** <2019-03-18 Mon 21:17> OPPORTUNITY: Product Specialist-Fluid Solutions - WATTS
+   Date: <2019-03-18 Mon 21:17> 
+   Position: Product Specialist-Fluid Solutions
+   Payrate:
+   Employer name/address/phone/URL: WATTS WATER TECHNOLOGIES 
+   Person Contacted: Anna Bengco <anna.bengco@personiv.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested
+-
 
-If you do not feel like you are a good fit, but you know someone who may be looking for position like this, please feel free to forward this email onto them.  I also encourage you to visit our website at www.axelon.com for all of our job openings. 
+** <2019-03-18 Mon 19:05> OPPORTUNITY:  MassHire Framingham Colleague 
+   Date: <2019-03-18 Mon 19:05>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Career Centers
+   Person Contacted: Frank Yeoung, Davidson 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Contact maintenance
+-
 
-Business Consultant
-Springfield, MA - Onsite, no remote option
-6 months + (temp-to-perm)
+** <2019-03-19 Tue 11:13> OPPORTUNITY: 19-03629-----------Analyst ---------12 Months contract project at Westminster,
 
-**Looking for a strong BA with experience with Salesforce.
+    Date: <2019-03-19 Tue 11:13> 
+    Position: Analyst
+    Payrate:
+    Employer name/address/phone/URL: Axelon Services Corporation
+    Person Contacted: Mohd. Safi uddin Khan <safi.khan@axelon.com>
+    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+    Results: Additional Follow up requested AFTER presented to client
+ -
+** <2019-03-19 Tue 21:27> OPPORTUNITY: Technical Support Specialist Opportunity (Windows Upgrade)
+   Date: <2019-03-19 Tue 21:27> 
+   Position:  Technical Support Specialist 
+   Payrate:
+   Employer name/address/phone/URL:  TalentBurst, Inc.
+   Person Contacted: Roberto Calabrese <roberto.calabrese@talentburst.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested
+-
 
-Position Summary
-Seeking a Business Analyst with experience in Salesforce and all phases of a project's lifecycle (SDLC & Agile). The ideal candidate will have a strong background in financial services. The candidate will be responsible for soliciting and documenting business requirements, understanding of technical dependencies, and helping to envision creative solutions to both business and technical challenges. Candidate must be team-oriented and possess excellent written, verbal, and communication skills.
+** <2019-03-20 Wed 08:27> OPPORTUNITY: Fantastic job opportunity for MS Access developer at Boston, MA
 
-Skills
-Seasoned individual capable of handling broad scope projects that could have a short to long term focus
-Works with guidance on more complex projects
-Works very closely with both business and technical stakeholders
-Looks for and finds ways to improve the way we operate business
-Document requirements (functional & non-functional) and create use cases
-Analyze and decompose business rules
-Assist other team members with understanding the business requirements
-Operates independently on multiple project tasks
-Participate in all phases of project testing
-Leads business analysis across multiple parallel initiatives
-Gathering and documentation of functional and non-functional requirements
-Facilitate and drive requirements gathering sessions
-Collaborate with business and systems experts
-Lead analysis of business processes, procedures, data and rules
-May provide oversight of overall quality of work product
-Negotiate and influence requirements direction
+Create and provide data analysis solutions using Microsoft Access 2010, 2013 and 2016
+    Use external databases to create analysis solutions.
+    Create various different reports as required.
+    Generate appropriate ad-hoc reporting.
+    Strong SQL queries, Stored procedures
+    Support access application with SQL Server 2008 backend.
 
-Basic Qualifications
-At least 5 years of Business Analysis experience
-Experience with Salesforce
-Experience with drafting business requirements
-Ability to work in a collaborative environment
-Ability to work on multiple different assignments at once
-Ability to own and drive the business analysis of a project
-Associate, Bachelors or Masters degree in related discipline
-Candidates must be authorized to work in the U.S.
 
-Preferred Qualifications
-7 years of Business Analysis experience preferred
-Experience in the Financial Services/Insurance industry
-Experience working on an Agile/Scrum team
-Understanding of Business Process Outsourcing (BPO) arrangements
-Perform requirement management plannning for large scale projects
-Testing skills
-Ability to mentor other less seasoned business analysts
-Highly organized and collaborative
- 
-If you are qualified and interested in pursuing this opportunity, please call me at (212) 488-7730 ASAP.  You may also send me an e-mail, if you do respond via e-mail please include a daytime phone number so I can reach you.  In considering candidates, time is of the essence, so please respond ASAP.  
 
-Note: Please allow me to reiterate that I chose to contact you either because your resume had been posted to one of the internet job sites to which we subscribe, or you had previously submitted your resume to Axelon.  I assumed that you are either looking for a new employment opportunity, or you are interested in investigating the current job market.
+   Date: <2019-03-20 Wed 08:27> 
+   Position: MS Access developer 
+   Payrate:
+   Employer name/address/phone/URL: ApTask 
+   Person Contacted: Aravind Vennam <vennam@aptask.com>
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested
+-
+** <2019-03-20 Wed 09:07> OPPORTUNITY: Your Application For the Position IT Business Analyst, IS Projects at NATIONAL GRID 
+  
+   Date: <2019-03-21 Thu 09:07> 
+   Position: IT Business Analyst
+   Payrate:
+   Employer name/address/phone/URL: National Grid
+   Person Contacted: National Grid Careers system@successfactors.com
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested
+-
 
-If you are not currently seeking employment, or if you would prefer I contact you at some later date, please indicate your date of availability so that I may honor your request. In any event, I respectfully recommend you continue to avail yourself to the employment options and job market information we provide with our e-mail notices.
+** <2019-03-20 Wed 21:17> OPPORTUNITY: Product Specialist-Fluid Solutions - WATTS
+   Date: <2019-03-20 Wed 21:17> 
+   Position: Product Specialist-Fluid Solutions
+   Payrate:
+   Employer name/address/phone/URL: WATTS WATER TECHNOLOGIES 
+   Person Contacted: Anna Bengco <anna.bengco@personiv.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: 2nd Follow up requested after reply
+-
+** <2019-03-20 Wed 15:47> OPPORTUNITY: looking for a Junior Web Developer in Somerville, MA - Right to Hire position 
+   Date: <2019-03-20 Wed 15:47> 
+   Position: Junior Web Developer 
+   Payrate:
+   Employer name/address/phone/URL: Global Technical Talent, Inc.
+   Person Contacted: Narendra Singh <nsingh@gttit.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested
+-
 
-Thank you,
-Tulasi Kaipu
+** <2019-03-20 Wed 15:52> OPPORTUNITY: URGENT- Contract role for a Windows OS Consultant in Marlborough, MA
+   Date: <2019-03-20 Wed 15:52> 
+   Position: Windows OS Consultant
+   Payrate:
+   Employer name/address/phone/URL: GTT, LLC 
+   Person Contacted: Anam Ali <aali@gttit.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested
+-
 
-Axelon Services Corporation
-44 Wall Street 18th Floor
-New York, NY 10005
-Phone: (212) 488-7730
-Fax  : (212) 306-0191
-saitulasi.kaipu@axelon.com  
-
-   Date: <2019-03-11 Mon 20:15> 
-   Position:  Business Analyst
+** <2019-03-20 Wed 15:58> OPPORTUNITY: Data Analyst Role Available! #19-03247
+   Date: <2019-03-20 Wed 15:58> 
+   Position: Data Analyst
    Payrate:
    Employer name/address/phone/URL: Axelon Services Corporation
-   Person Contacted: Tulasi Kaipu <saitulasi.kaipu@axelon.com> 
+   Person Contacted: Sunil Kokila sunil.kokila@axelon.com
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
    Results: Follow up requested
 -
 
-** <2019-03-11 Mon 20:21> OPPORTUNITY: Exciting New Systems & Servers Opportunity
-Randi Noonan <randi_noonan@oxfordcorp.com> Unsubscribe
-	
-Wed, Mar 6, 1:14 PM (11 days ago)
-	
-to me
-Oxford Global Resources_The Right Talent. Right Now.
-
-
-Hi Ray,
-
-It?s been a while since we spoke and I wanted to check in and see if you were looking for a new assignment.
-
-A number of our clients have current and upcoming projects and are looking for your expertise within systems & servers.
-
-If you?re interested in learning more, please click here to provide an updated resume, or simply respond to my email to be reconnected with a member of our dedicated IT team.  
-
-We look forward to working with you,
-
-Randi Noonan
-Recruiting Administrator 
-Oxford Global Resources
-978-538-1628 | randi_noonan@oxfordcorp.com 
-Share on LinkedIn
-
-
-   Date: <2019-03-11 Mon 20:21> 
-   Position: Systems & Servers Admin
+** <2019-03-21 Thu 16:13> OPPORTUNITY: IT Business Analyst, IS Projects  
+   Date: <2019-03-21 Thu 16:13> 
+   Position: IT Business Analyst, IS Projects 
+   Payrate: $67k - $96k (Glassdoor est.) 
+   Employer name/address/phone/URL: National Grid USA - Waltham, MA 
+   Person Contacted:  Glassdoor <noreply@glassdoor.com>
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested submitted application
+-
+** <2019-03-21 Thu 16:13> OPPORTUNITY: IT Analyst/Programmer   
+   Date: <2019-03-21 Thu 16:13> 
+   Position: IT Analyst/Programmer  
+   Payrate:  
+   Employer name/address/phone/URL: GeoLogics - Billerica, MA 
+   Person Contacted:  Glassdoor <noreply@glassdoor.com>
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested submitted application
+-
+** <2019-03-21 Thu 16:13> OPPORTUNITY: New opportunity at Verizon    
+   Date: <2019-03-21 Thu 16:13> 
+   Position: Systems Analyst  
+   Payrate:  
+   Employer name/address/phone/URL: Verizon - Lowell, MA
+   Person Contacted:  Glassdoor <noreply@glassdoor.com>
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested submitted application
+-
+** <2019-03-21 Thu 16:31> OPPORTUNITY: Programmer - AllStar Staffing Group - Boston, MA 
+   Date: <2019-03-21 Thu 16:31> 
+   Position: Programmer - AllStar Staffing Group - Boston, MA 
    Payrate:
-   Employer name/address/phone/URL: Oxford Global Resources
-   Person Contacted: Randi Noonan <randi_noonan@oxfordcorp.com> 
+   Employer name/address/phone/URL: ZipRecruiter
+   Person Contacted: Phil @ ZipRecruiter <phil@ziprecruiter.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
+   Results: Follow up requested submitted application
 -
-
-** <2019-03-11 Mon 17:58> OPPORTUNITY: Tatnuck Booksellers Meeting
-   Date: <2019-03-11 Mon 17:58> 
-   Position: Systems Integrator
-   Payrate: $90K/yr
-   Employer name/address/phone/URL: Tatnuck Worcester Rd Westboro
-   Person Contacted: David Sullivan and Group tatnuck_group@yahoogroups.com
+** <2019-03-21 Thu 16:31> OPPORTUNITY: Systems Administrator - Allied Government Solutions - Burlington, MA 
+   Date: <2019-03-21 Thu 16:31> 
+   Position: Systems Administrator - Allied Government Solutions - Burlington, MA
+   Payrate: $48 - $52 hourly (USD)
+   Employer name/address/phone/URL: ZipRecruiter
+   Person Contacted: Phil @ ZipRecruiter <phil@ziprecruiter.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Communicated opportunity to group
+   Results: Follow up requested submitted application
 -
-** <2019-03-12 Tue 20:40> OPPORTUNITY: Updates from Faber Daeufer & Itrato PC and 3 other companies
-   Date: <2019-03-12 Tue 20:40> 
-   Position: Multiple follow-up
-   Payrate:
-   Employer name/address/phone/URL: ZipRecruiter.com
-   Person Contacted: Team@ziprecruiter.com
+** <2019-03-21 Thu 19:05> OPPORTUNITY:  MassHire Framingham Colleague 
+   Date: <2019-03-21 Thu 19:05>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Career Centers
+   Person Contacted: Frank Yeoung, Davidson 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
+   Results: Contact maintenance for future meeting
 -
-
-** <2019-03-12 Tue 20:46> OPPORTUNITY: Fwd: URGENT NEED _ Windows Server Admin with Backup Expertise at Boston, MA
-Asha Malviya <asha.malviya@ktekresourcing.com>
-	
-Mon, Mar 11, 12:27 PM (6 days ago)
-	
-to bcc: me
-Hi,
-
-Greetings for the day !!
-
-My name is Asha, and I am a Technical Recruiter, Talent Acquisition for K-Tek Resourcing.
-
-We are actively looking for Windows Server Admin with Backup Expertise at Boston, MA.
-
-Mode: Fulltime
-
-Job Description: 
-
-    Need a strong candidate with 5+ years of strong Level2 experience on Red Hat Linux / Windows with excellent troubleshooting skills
-    Good exposure on Linux /Windows patching.
-    Installation and configurations of new Windows servers.
-    Good exposure on system administration tasks like LVM, Multipathing, managing SAN disks connected to servers, NFS
-    Good exposure in Managing servers in cluster environment
-    Good exposure on VMware and ESX servers and managing Virtual Servers 
-    Knowledge of any backup technology like Avamar, Netbackup would be added advantage 
-    Knowledge on Puppet.
-    Good understanding of ITIL processes, Incident and Change Management.
-    Good experience on P2V & V2V migrations.
-
-If you're interested then send me your updated resume at asha.malviya@ktekresourcing.com or reach me at 8324263625.
-Note: If you feel that this would not be a suitable position for you then please feel free to forward this email to someone who might be a fit. I apologize if this email bothered you in any way. 
-
-
-Thanks & Regards, 
-Asha Malviya | Sr. Technical Recruiter
-asha.malviya@ktekresourcing.com
-
-KTEK Resourcing
-India | Canada | United States
-9494 Southwest Freeway, Suite#105, Houston, TX - 77074
-Tel: +1.832.426.3625 Fax: +1.866-230-6454
-https://www.linkedin.com/in/asha-malviya-a9531a8b/
-Website Address: http://www.ktekresourcing.com/
-Follow Us: Facebook | LinkedIn
-
-   Date: <2019-03-12 Tue 20:46> 
-   Position: Windows Server Admin
-   Payrate:
-   Employer name/address/phone/URL: KTEK Resourcing
-   Person Contacted: Asha Malviya <asha.malviya@ktekresourcing.com> 
+** <2019-03-22 Fri 19:05> OPPORTUNITY:  MassHire Framingham Colleague 
+   Date: <2019-03-22 Fri 19:05>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Career Centers
+   Person Contacted: Frank Yeoung, Davidson 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
+   Results: Luncheon Networking meeting in Malden Sun Kong restaurant
+-
+** <2019-03-22 Fri 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
+   Date: <2019-03-22 Fri 19:05>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Career Centers
+   Person Contacted: Doug Cole <dcole@masshiremsw.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
+   Results: Notification of Jobfair
 -
-
-** <2019-03-12 Tue 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
-   Date: <2019-03-12 Tue 19:05>
+** <2019-03-22 Fri 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
+   Date: <2019-03-22 Fri 19:05>
    Position: SQL Server DBA
    Payrate: $90K
    Employer name/address/phone/URL: MassHire Framingham Career Centers
    Person Contacted: Ed Lawrence <elawrence@masshiremsw.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Sent great article on networking
+   Results: Info on salary history questions
 -
-** <2019-03-12 Tue 20:54> OPPORTUNITY: IT Infrastructure Engineer needed for a major pharma company in Devens, MA (#19-05157)
-Jelena Stevanovic <Jelena.stevanovic@axelon.com>
-	
-Mon, Mar 11, 6:09 PM (6 days ago)
-	
-to me
-03/11/19 5:56 PM
+** <2019-03-22 Fri 10:52> OPPORTUNITY: Windows 10 Administrator Needed! - Worcester, MA 
+    Date: <2019-03-22 Fri 10:52> 
+    Position: Sr. Windows Administrator - Windows 10 SME
+    Payrate:
+    Employer name/address/phone/URL: NTT DATA
+    Person Contacted: Tiffany Vuong <tiffany.vuong@nttdata.com>
+    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+    Results: Follow up requested 
+ -
 
-Dear Ray,
-
-My name is Jelena and I'm an IT Recruiter at Axelon Services Corporation.  We have your resume on file and I thought you may be interested in an opportunity we currently have available for a IT Infrastructure Engineer with a major pharmaceutical company located in Devens, MA.  Please review the job description below. 
-
-If you do not feel like you are a good fit, but you know someone who may be looking for position like this, please feel free to forward this email onto them.  I also encourage you to visit our website at www.axelon.com for all of our job openings. 
-
-Please call to discuss hourly rate.
-
-W2 contract. No C2C/Corp to Corp     
-
-Job Description: Position Description and Responsibilities:
-To serve as a key contributor to support key IT Infrastructure Enterprise initiatives.
-
-The main function of the role is to support the Enterprise team in the IT software infrastructure space.
-
-Role Responsibilities
-. Support pilot activities for IT supporting tools like network inventory tool and file transfer tool
-. Assisting on creating a formal cybersecurity risk assessment and new policies
-. Active Directory changes
-. Incident response plans
-. Recovery Verification reporting changes
-. Support IT infrastructure site activities
-
-Position Requirements:
-Must have:
-- 3-5 years of strong experience, or more, in supporting and managing IT software infrastructure
-o Active Directory experience
-o Powershell or Python experience for scripting
-o Understanding of NAS protocols (SMB/CIFS and NFS) from both the server- and the client- ends.
-o Must have proficient TCP/IP networking understanding
-- Ability to work both independently and as a contributor in a team environment
-- Strong analytical skills
-- Strong oral and written communication skills
-
-Desirable:
--2 years of experience using AWS cloud services is desired
-- Experience in managing high performance compute infrastructure in the data center including high speed network switches, standalone servers, high density blade servers, NAS and object storage
-- Working knowledge of virtualization technologies such as VMware
-- Experience with the transfer of data to/from cloud offerings such as AWS S3
-
-
-Qualifications: Bachelor?s degree is required.
-Additional Job Requirements:
-None
- 
-If you are qualified and interested in pursuing this opportunity, please call me at (212) 384-6515 ASAP.  You may also send me an e-mail, if you do respond via e-mail please include a daytime phone number so I can reach you.  In considering candidates, time is of the essence, so please respond ASAP.  
-
-Note: Please allow me to reiterate that I chose to contact you either because your resume had been posted to one of the internet job sites to which we subscribe, or you had previously submitted your resume to Axelon.  I assumed that you are either looking for a new employment opportunity, or you are interested in investigating the current job market.
-
-If you are not currently seeking employment, or if you would prefer I contact you at some later date, please indicate your date of availability so that I may honor your request. In any event, I respectfully recommend you continue to avail yourself to the employment options and job market information we provide with our e-mail notices.
-
-Thank you,
-Jelena Stevanovic
-Technical Recruiter
-Axelon Services Corporation
-44 Wall Street 18th Floor
-New York, NY 10005
-Phone: (212) 384-6515
-Fax  : (212) 306-0191
-Jelena.stevanovic@axelon.com
-
-   Date: <2019-03-12 Tue 20:54> 
-   Position: IT Infrastructure Engineer
+** <2019-03-22 Fri 16:31> OPPORTUNITY: Programmer - AllStar Staffing Group - Boston, MA 
+   Date: <2019-03-22 Fri 16:31> 
+   Position: Programmer - AllStar Staffing Group - Boston, MA 
    Payrate:
-   Employer name/address/phone/URL: Axelon Services Corporation
-   Person Contacted: Jelena Stevanovic <Jelena.stevanovic@axelon.com> 
+   Employer name/address/phone/URL: ZipRecruiter
+   Person Contacted: Phil @ ZipRecruiter <phil@ziprecruiter.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
+   Results: Informed resume viewed 3 times and recruiter requested contact
 -
-
-** <2019-03-12 Tue 20:59> OPPORTUNITY: Help Desk Operator in Lynn, MA 
- Dipesh Sahu <dipesh@ittblazers.com>
-	
-Tue, Mar 12, 10:26 AM (5 days ago)
-	
-to me
-Hello Ray,
-
-This is Dipesh, Technical Recruiter with IT Trailblazers. I had a chance to review your resume and thought you would be a great fit for an exciting opportunity we have in Lynn, MA. This opportunity is with one of our premier clients for Help Desk Operator role. Kindly go through this email and if you are interested, please do respond back with your resume in word format along with the contact details ASAP.  
-
-Position: Help Desk Operator
-Location: Lynn, MA
-Duration: 6+ Months
-
-Job Description:
-? Any Degree 5+ years of experience on Service Desk Support having experience on Windows, Linux, UNIX, SNOW
-Candidate should be able perform the following activities and having US TOP SECURITY CLEARANCE:-
-? Identifies system problems. Performs necessary system repairs. Determines the efficient utilization of resources.
-? Escalates problems and issues to a higher level of support. This includes service that exceeds response time, repair time, lack of parts, or any other issue that could impact customer satisfaction.
-? Interfaces with other technicians, operations, and customers and makes decisions on operating procedures, analytical approaches, and configuration options.
-? Maintains appropriate documentation and procedures. Processes timely and accurate information to ensure compliance with warranty requirements of vendors.
-? Provides solutions using specific product knowledge, system utilities, and operating environment.
-? Follows established process and procedures to plan, install, test, and implement computer system hardware or software technologies.
-? Install, configure, upgrade, troubleshoot, diagnose, and resolve problems with special application software and its integration with the standard Windows operating system and Office products.
-? Install, configure, upgrade, diagnose and resolve problems on peripheral devices.
-? Assist with asset management: surplus, transfer, and upgrade of computers to maximize capacity and capability within the department Data transfer required as a
-? Assist in Hardware upgrade or software migration.
-? Education and training for special applications, new operating systems, shrink-wrap Microsoft Office products.
-? Provide assistance to personnel traveling with various connection problems or with other required support. Conference Room support VPN Support Network Support Fair knowledge in Programming
-
-
-Regards
-Dipesh Sahu
-Phone: 732- 227-1772 (ext: 344)
-Fax: (732) 909 2358
-2050 Route 27, Suite 203 North Brunswick NJ 08902
-www.ittblazers.com |dipesh@ittblazers.com
-Certified Minority Business Enterprise / E-Verify Employer
-  
-
-   Date: <2019-03-12 Tue 20:59> 
-   Position:  Help Desk Operator
-   Payrate:
-   Employer name/address/phone/URL: IT Trailblazers.
-   Person Contacted: Dipesh Sahu <dipesh@ittblazers.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-12 Tue 21:05> OPPORTUNITY: Top Healthcare SaaS Company - Hiring in Java! 
-Michael Draine <m.draine@huxley.com> Unsubscribe
-	
-Tue, Mar 12, 10:46 AM (5 days ago)
-	
-to me
-
-Hello Ray,
-
-I wanted to reach out, as I am currently working on a new opportunity with one of my clients in the HealthCare technology space. They're a HealthCare software as a service company based in the Greater Boston area. They currently have a growth opening for one of their key product teams.
-
-You would be an engineer within a team focused on building out a new version of one of their flagship applications. You'll be working with product owners, QA, and DevOps to define the business requirements for this application. You will also have a hand in the architecture and design of the product as well as hands on development. This opportunity may also provide you the chance to help lead smaller development teams and mentor more junior members as you become more experienced within the environment.
-
-Within this team, you'll be working with Java 8 and SQL Server on the back end. Experience with APIs will be important as well. Experience with a Service Oriented Architecture is a plus but not required. Any previous domain knowledge in the Healthcare space is certainly a plus but not required.
-
-This is a full time, direct hire, permanent opportunity. Compensation will be very competitive.
-
-If you would like more information, please submit a copy of your resume and recommend the best time for us to discuss further.
-
-Best,
-
-Michael Draine
-
-Huxley
-23rd Floor, Suite 2304, 28 State Street, Boston, MA, 02109, United States
-------------------------------------------------
-E: m.draine@huxley.com
-------------------------------------------------
-www.huxley.com
-
-
-   Date: <2019-03-12 Tue 21:05> 
-   Position: Java Developer
-   Payrate:
-   Employer name/address/phone/URL: Huxley 
-   Person Contacted: Michael Draine <m.draine@huxley.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-12 Tue 21:18> OPPORTUNITY: Database Administrator opportunity in Concord, MA - $110,000 - $125,000
-Debbie Riva <d.riva@huxley.com> Unsubscribe
-	
-AttachmentsTue, Mar 12, 11:32 AM (5 days ago)
-	
-to me
-
-Dear Ray,
-
-Hi there ? my name is Debbie and I?m a recruiter with a focus on the IT/banking sectors and I?m wondering if you or someone in your network is open to new opportunities at the moment?
-
- 
-
-I?m working with a large travel company who are looking for a MySQL Database Administrator to join their IT operations team in Concord, MA.
-
- 
-
-For this position they are looking for someone who has experience working with MySQL in a web facing environment, strong Linux skills and experience troubleshooting.
-
- 
-
-If interested, please send me over your resume and I can follow-up with a call. I have attached a job description for your consideration.
-
-
-Best Regards,
-
-Debbie Riva
-
-Huxley IT
-Suite 1.3, 1st Floor Turnberry House, 175 West George Street, Glasgow, G2 2LB, United Kingdom
-------------------------------------------------
-T: 0141 222 7850
-E: d.riva@huxley.com
-------------------------------------------------
-www.huxleyit.com
-
- 
-Date: <2019-03-12 Tue 21:18> 
-   Position: Database Administrator
-   Payrate:
-   Employer name/address/phone/URL: Huxley IT
-   Person Contacted: Debbie Riva <d.riva@huxley.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-12 Tue 21:27> OPPORTUNITY: Desktop Support Technician- Waltham, MA 
- Dunn, Brandon (04860) <Brandon.Dunn@roberthalf.com>
-	
-Tue, Mar 12, 10:16 AM (5 days ago)
-	
-to
-
-        Hello,
-
- 
-
-I am reaching out to you in regards to contract to hire position I have in Waltham, MA and wanted to reach out and see if you would be interested or know anyone who may be. The starting salary for this role is based off of experience. If you are interested please send an updated copy of your resume to this email and I will give you a call shortly if your skills align with what our client is looking for. If you?re looking for a different role I apologize and would be happy to update your profile.
-
- 
-
-Work Schedule: 8-5 Monday
-
-Job description: Must have O365 and Windows 7 experience
-
-Experienced
-o 2-5 years of related work experience, or AA degree, or technical training or equivalent combination of education and experience. A+ Certification ? or able to obtain within first 6 weeks of employment.
-o Solid experience and understanding of IT services and products
-o Enthusiastic about technology and willing to learn and stay on the cutting edge.
-? Personable
-o Relatable and responsible when interacting with ALL customers
-o When the customer has a problem?are they going to dread your visit? If yes, you?re not picking up what we?re putting down.
-o Consultative approach to solving issues ? Help us, help them!
-? Reliable.
-o Able to transform technical IT solutions lingo into terms everyone understands.
-o Impeccable follow-through to customer satisfaction.
-o Will attempt to connect to anyone you meet, no matter how difficult.
-? Go-Getter.
-o Insatiable desire for knowledge, independence, and success?strive for more than the status quo.
-o Not intimidated by problems you?ve never seen before?confidence is key!
-o Hungry to work hard and hungry to grow your career!
-
- 
-
- 
-
-    Thanks,
-
-Brandon Dunn
-Technical Recruiter, Strategic Accounts
-
-Fax: 614-987-0909
-
-Email: brandon.dunn@roberthalf.com
-
-Robert Half Strategic Accounts | 200 E. Campus View Blvd | Suite 225 | Columbus | OH 43235 USA |  http://www.roberthalf.com/technology/  
-
-Date: <2019-03-12 Tue 21:27> 
-   Position:  Desktop Support Technician
-   Payrate:
-   Employer name/address/phone/URL: Robert Half Strategic Accounts
-   Person Contacted:  Dunn, Brandon (04860) <Brandon.Dunn@roberthalf.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-12 Tue 21:33> OPPORTUNITY: Checking in for IT Infrastructure Engineer
- Diksha <diksha.sharma@spectraforce.com> Unsubscribe
-	
-Mar 12, 2019, 5:07 PM (5 days ago)
-	
-to me
-Hello Ray,
- 
-Hope all is well.
-I am a recruiter for Spectraforce Technologies, a leading global staffing firm with a broad range of clients and industries.
- 
-I have recently come across to your information and wanted to touch base with you regarding IT Infrastructure Engineer position I have available for one of my clients. The position is located in Devens, MA. If this sounds like an opportunity you may be interested in, I would love to connect with you over a call to further discuss the role and what you are looking for. Please do  OneClickApply  
-
-A brief job description for your reference is below for your review.
-
-Role: IT Infrastructure Engineer
-
-Location: Devens, MA 01434
-
-Duration: 6 Months
-
- 
-
-Required
-
-?         Cyber Security Knowledge               
-
-?         IT Infrastructure Design
-
- 
-
-Position Description and Responsibilities:
-
-?         To serve as a key contributor to support key IT Infrastructure Enterprise initiatives.
-
-?         The main function of the role is to support the Enterprise team in the IT software infrastructure space.
-
- 
-
-Role Responsibilities
-
-?         . Support pilot activities for IT supporting tools like network inventory tool and file transfer tool
-
-?         . Assisting on creating a formal cybersecurity risk assessment and new policies
-
-?         . Active Directory changes
-
-?         . Incident response plans
-
-?         . Recovery Verification reporting changes
-
-?         . Support IT infrastructure site activities
-
- 
-
-Position Requirements:
-
-Must have:
-
-?         3-5 years of strong experience, or more, in supporting and managing IT software infrastructure
-
-?         Active Directory experience
-
-?         Powershell or Python experience for scripting
-
-?         Understanding of NAS protocols (SMB/CIFS and NFS) from both the server- and the client- ends.
-
-?         Must have proficient TCP/IP networking understanding
-
-?         Ability to work both independently and as a contributor in a team environment
-
-?         Strong analytical skills
-
-?         Strong oral and written communication skills
-
- 
-
-Desirable:
-
-?         2 years of experience using AWS cloud services is desired
-
-?         Experience in managing high performance compute infrastructure in the data center including high speed network switches, standalone servers, high density blade servers, NAS and object storage
-
-?         Working knowledge of virtualization technologies such as VMware
-
-?         Experience with the transfer of data to/from cloud offerings such as AWS S3
-
-?         Qualifications: Bachelor?s degree is required.
-
- 
-Thank you and have a great day!
- 
-Sincerely,
-Thanks & Regards
-Diksha Sharma
-Lead Recruiter
-Spectraforce Technologies Inc.
-Office: 919-230-9952 Ext.-4131
-Email id: diksha.sharma@spectraforce.com
-Linkedin : www.linkedin.com/pub/diksha-sharma/99/154/396/
-Visit us at: www.spectraforce.com
-   
-
-   Date: <2019-03-12 Tue 21:33> 
-   Position: IT Infrastructure Engineer
-   Payrate:
-   Employer name/address/phone/URL: Spectraforce Technologies Inc.
-   Person Contacted: Diksha <diksha.sharma@spectraforce.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results:  Follow up requested
--
-
-** <2019-03-12 Tue 21:43> OPPORTUNITY: Voicemail Follow Up - Senior Application Engineering Opportunity - Billerica, MA
-Jessie Belz <inmail-hit-reply@linkedin.com>
-	
-Mon, Mar 11, 5:54 PM (6 days ago)
-	
-to Ray
- 
-Hi Ray,
-
-I love your profile! I just left you a message because I am currently searching for an Application Engineer like you who has supposed web applications on windows servers for my top client in the Defense Space. Your work consulting in this space looks great for for this role and team!
-
-This positions will sit in Billerica, MA. Overall, this is a long term opportunity to use your skills in Windows, server administration, and application engineering to join a growing team for a highly regarded, leading organization in the defense space!
-
-I have provided an overview of the job description below, and I would be happy to share more details with you. This manager is looking to interview candidates ASAP, so if you are at all interested in exploring opportunities, please let me know the soonest you are available for a call and a good number to reach you on. I can also be reached directly at the office at 781-221-7500.
-
-Thank you so much, and I look forward to speaking with you!
-
-Day-To-Day:
-We are seeking an Application Engineer for one of their top clients in the defense space! The team currently has six engineers and three DBAs on the team. Due to their growth and project wins, we are looking for an additional engineer to join the team. In this position, you will be supporting custom applications on windows servers. You will be responsible for delivering and deploying the applications, while working directly with the DBAs on the team. The ideal candidate will also have a knowledge of SQL, IIS and .NET.
-
-This is an exciting opportunity to work in a fast paced environment with a growing team, while supporting business and custom applications for a leading organization in the defense space!
-
-Best,
-
-Jessie Belz | Senior Professional Recruiter | Insight Global, LLC
-781-203-0126 Office
-33 Arch St. Boston, MA 02210
-Jessica.Belz@insightglobal.com
-
-   Date: <2019-03-12 Tue 21:43> 
-   Position: Application Engineer
-   Payrate:
-   Employer name/address/phone/URL: Insight Global, LLC
-   Person Contacted: Jessie Belz <inmail-hit-reply@linkedin.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
-   Results: Follow up requested
--
-** <2019-03-13 Wed 19:05> OPPORTUNITY:  MassHire Framingham Colleague 
-   Date: <2019-03-13 Wed 19:05>
-   Position: SQL Server DBA
-   Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Frank Yeoung frankxyeung@gmail.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up on yesterdays meeting events 
--
-** <2019-03-13 Wed 13:14> OPPORTUNITY: Onsite Systems Administrator - Burlington; MA 01803 - 12 month duration. If candidate is great, we will keep for 24 months
- Rohan Chauhan_FR_JAN2019
-	
-Mar 13, 2019, 5:05 PM (5 days ago)
-	
-to me
-Hello,
- 
-I hope your day is going well.
- 
-Founded in 1998, Matrix Technology Group is an ERP, BI and a highly recognized provider of professional IT Consulting services in the US.
- 
-Here is our Direct Client requirement, Kindly respond to this requirement with your updated resume, rate expected and current location info to speed up the interview process.
- 
-                JOB TITLE: Onsite Systems Administrator
-                Location ? Burlington; MA  01803
-                Contract duration:12 month duration. If candidate is great, we will keep for 24 months
- 
-Must have true and track record of proven desktop support
->Must have 5+ years experience at 1 company
->Must be local and available for an in person interview (not skype)
- 
- 
- 
-Role Summary:
-This Tier 2 Onsite Systems Administrator (PC Technician II) position is critical in supporting User base by resolving technology issues and assisting in remedying business process issues, managing the lifecycle of User?s hardware & software, and maintaining inventory. Consult User base on company policies, standards, security awareness, and business continuity.
- 
- 
-Skills/Qualifications/Experience:
-? Strong problem solving/analytical/critical thinking skills
-? Self-starter with excellent organizational, administrative and interpersonal skills
-? Ability to multi-task and work in fast paced environment
-? Ability to work independently, with team, and with User base in a professional manner
-? Ability to develop good rapport and build strong relationships with User base and teammates
-? Ability to present/train User base
-? Experience in troubleshooting and critical incident management
-? Experience in project and task management
-? Experience supporting Windows 7 & 10 O/S and Microsoft applications
-? Excellent oral and written, interpersonal, and communication skills
-? BS or equivalent experience (5 years of related experience in corporate computing environment)
-Technical Proficiency:
-Ability to use and understand the functionality of various IT programs, systems, and protocols (including, but not limited to):
-? Windows 7 and Windows 10
-? Microsoft Office 2007 to 365
-? Anti-virus/Anti-malware
-? Ticketing Systems
-? Hardware (Desktops and Laptops)
-? Mobile Devices and Applications (smartphone and tablets)
-? VPN
-? Remote Desktop
-? Backup Solution
-? VOIP
-? LAN/WAN
-? TCP/IP
- 
-Regards,
-Rohan Chauhan (Executive Recruiter)
-Tel ?  908-279-1289
-Fax - 732-909-2631
-Email - rchauhan@matrixonweb.com
-Gmail ? rohanstan0.matrix@gmail.com
-LinkedIn: linkedin.com/in/rohan-chauhan-9118aa179
-URL: www.matrixonweb.com  
-
-   Date: <2019-03-18 Mon 13:14> 
-   Position: Onsite Systems Administrator
-   Payrate:
-   Employer name/address/phone/URL: www.matrixonweb.com 
-   Person Contacted: Rohan Chauhan (Executive Recruiter)
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-13 Wed 19:05> OPPORTUNITY:  MassHire Framingham Colleague 
-   Date: <2019-03-14 Thu 19:05>
-   Position: SQL Server DBA
-   Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Vic Camilleri vic@vcamilleri.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Provided info on OpenVMS 
--
-
-** <2019-03-14 Thu 17:58> OPPORTUNITY: Tatnuck Booksellers Meeting
-   Date: <2019-03-14 Thu 17:58> 
+** <2019-03-16 Sat 17:58> OPPORTUNITY: Tatnuck Booksellers Group 
+   Date: <2019-03-16 Sat 17:58> 
    Position: Systems Integrator
    Payrate: $90K/yr
    Employer name/address/phone/URL: Tatnuck Worcester Rd Westboro
    Person Contacted: David Sullivan and Group tatnuck_group@yahoogroups.com
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Emailed new company list I created
+   Results: Emailed job fair announcement
 -
-** <2019-03-14 Thu 13:28> OPPORTUNITY: Full-Time Systems Engineering Position- Boston, MA
- Eric Morra
-
-Huxley IT
-23rd Floor, Suite 2304, 28 State Street, Boston, MA, 02109, United States
-------------------------------------------------
-E: e.morra@huxley.com
-------------------------------------------------
-www.huxleyit.com
- 
-
-   Date: <2019-03-14 Thu 13:28> 
-   Position: Systems Engineer
+** <2019-03-23 Sat 11:25> OPPORTUNITY: Job Role: SFDC Engineer 
+   Date: <2019-03-23 Sat 11:25> 
+   Position: SFDC Engineer
    Payrate:
-   Employer name/address/phone/URL: Huxley IT
-   Person Contacted: Eric Morra e.morra@huxley.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-14 Thu 13:37> OPPORTUNITY: Catching Up - QA Automation Engineer
-Brian Jobin <Bjobin@jvtadvisors.com>
-	
-Thu, Mar 14, 9:43 AM (4 days ago)
-	
-to me
-
-Hello Ray,
-
- 
-
-I am looking to fill a QA Automation Engineer role for a great client of ours. This role is located in Waltham, MA. Looking at your background, I would love to have a discussion to see if this is something you would be interested in!
-
- 
-
-Please reply with an updated resume in a Word format and the best time to reach you at. Feel free to reach out to me at 978-557-7107.
-
- 
-
-Job Description:
-
-Requirements:
-
-    Strong and recent experience in QTP/UFT
-    Good programming skills
-    Quick to learn business processes in order to automate the testing scenarios
-    Good SQL knowledge
-
- 
-
- 
-
-cid:image001.png@01D3223D.CE1023B0
-
-Brian Jobin
-
-Senior Recruiter
-
-35 New England Business Center
-
-Andover, MA, 01810
-
-Direct: (978) 557-7107
-
-bjobin@jvtadvisors.com
-
-www.jvtadvisors.com
-   
-   Date: <2019-03-18 Mon 13:37> 
-   Position: QA Automation Engineer
-   Payrate:
-   Employer name/address/phone/URL: www.jvtadvisors.com
-   Person Contacted: Brian Jobin <Bjobin@jvtadvisors.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-15 Fri 13:43> OPPORTUNITY: Urgent Requirement - Help Desk Support II - Burlington, MA 01803 
-   Date: <2019-03-15 Fri 13:43> 
-   Position: Help Desk Support II
-   Payrate:
-   Employer name/address/phone/URL: Matrix Technology Group 
-   Person Contacted: Vivek Tiwari vtiwari@matrixonweb.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested 
--
-
-** <2019-03-15 Fri 14:05> OPPORTUNITY: Need:: Remote Python Developer
-   Date: <2019-03-15 Fri 14:05> 
-   Position: Python Developer
-   Payrate:
-   Employer name/address/phone/URL: Indotronix International Corporation
-   Person Contacted: Tim Mokidi <tim@iic.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-16 Sat 17:22> OPPORTUNITY: Contract Role | Oracle E-Business Suite SQA Tester | Boston, MA
-   Date: <2019-03-16 Sat 17:22> 
-   Position: SQA Tester 
-   Payrate:
-   Employer name/address/phone/URL: DTG Global Staffing
-   Person Contacted: Amy Borkar Amy.Borkar@dtglobalstaffing.com
+   Employer name/address/phone/URL: Info Way Solutions LLC
+   Person Contacted: prabhu Infoway prabhu@Infowaygroup.com
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
    Results: Follow up requested
 -
