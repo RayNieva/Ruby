@@ -2,210 +2,138 @@
 ** Code:
 ---
 -
-* Opportunities - Oct 2018
-** <2019-03-25 Mon 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
-   Date: <2019-03-25 Mon 19:05>
-   Position: SQL Server DBA
-   Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Lorraine Pocon lpocon@masshiremsw.com  
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Signed Up for BSR Notifications
--
-** <2019-03-25 Mon 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
-   Date: <2019-03-25 Mon 19:05>
-   Position: SQL Server DBA
-   Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Ed Lawrence elawrence@masshiremsw.com  
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Confirmation of tomorrows meeting
--
-
-** <2019-03-25 Mon 13:50> OPPORTUNITY: Contract Role | Oracle E-Business Suite SQA Tester | Boston, Massachusetts 
-   Date: <2019-03-25 Mon 13:50> 
-   Position: Oracle E-Business Suite SQA Tester
+* Opportunities Starting April 07, 2019
+** <2019-04-22 Mon 12:37> OPPORTUNITY: Urgent need for a Database Administrator - Senior ? 19-00851 - Contract - Framingham, MA 01701, Client Looking to Interview and Hire Immediately 
+   Date: <2019-04-22 Mon 12:37> 
+   Position: Database Administrator
    Payrate:
-   Employer name/address/phone/URL: Dimensional Thinking, LLC
-   Person Contacted: Amy Borkar via bullhornmail.com 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Employer name/address/phone/URL: GTIT
+   Person Contacted: Susan G 603.516.4447
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: phone
    Results: Follow up requested
 -
 
-** <2019-03-25 Mon 16:47> OPPORTUNITY: VMware Engineer in Hopkinton, MA 
-   Date: <2019-03-25 Mon 16:47> 
-   Position: VMware Engineer
+** <2019-04-22 Mon 16:11> OPPORTUNITY: Software Engineer II
+   Date: <2019-04-22 Mon 16:11> 
+   Position: Software Engineer II
    Payrate:
-   Employer name/address/phone/URL: NTT DATA Services 
-   Person Contacted: Siddharth Mishra <siddharth.mishra@nttdata.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-25 Mon 17:48> OPPORTUNITY: QA Engineer 19-04416 Boston MA
-   Date: <2019-03-25 Mon 17:48> 
-   Position: QA Engineer
-   Payrate:
-   Employer name/address/phone/URL: Axelon Services Corporation
-   Person Contacted: Kalyani Munamarthi <kalyani.munamarthi@axelon.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested 
--
-
-** <2019-03-26 Tue 17:57> OPPORTUNITY: Fantastic job opportunity for MS Access developer at Boston, MA
-   Date: <2019-03-26 Tue 17:57> 
-   Position: MS Access developer 
-   Payrate:
-   Employer name/address/phone/URL: ApTask
-   Person Contacted: Aravind Vennam <vennam@aptask.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: First follow-up email
--
-
-** <2019-03-25 Mon 16:31> OPPORTUNITY: Programmer - AllStar Staffing Group - Boston, MA 
-   Date: <2019-03-19 Tue 16:31> 
-   Position: Programmer - AllStar Staffing Group - Boston, MA 
-   Payrate:
-   Employer name/address/phone/URL: AllStar Staffing Group
-   Person Contacted: Rob Greco  
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: 215-944-8140 
-   Results: Talked to Rob and email new resume
--
-
-** <2019-03-26 Tue 18:20> OPPORTUNITY: DB2 DBA Littleton, MA
-   Date: <2019-03-26 Tue 18:20> 
-   Position: DB2 DBA
-   Payrate:
-   Employer name/address/phone/URL: Voto Consulting LLC
-   Person Contacted: Himanshu Kumar himanshu@votoconsulting.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-26 Tue 18:26> OPPORTUNITY: Help Desk Technical Support in Lexington, MA - 3584
-   Date: <2019-03-26 Tue 18:26> 
-   Position: Help Desk Technical Support
-   Payrate:
-   Employer name/address/phone/URL: http://www.sigmainc.com
-   Person Contacted: Surya Ponnada sponnada@sigmainc.com  
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-26 Tue 18:30> OPPORTUNITY: Senior & Mid-level Software Developer (2) C#/.net - PaaS - west of boston (on 495)
-   Date: <2019-03-26 Tue 18:30> 
-   Position: Software Developer (2) C#/.net
-   Payrate:
-   Employer name/address/phone/URL: Robert Half Technology
-   Person Contacted: Ryan Staab ryan.staab@rht.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested 
--
-** <2019-03-26 Tue 21:56> OPPORTUNITY: LinkedIN
-
-   Date: <2019-03-26 Tue 21:56>
-   Position: Systems Integrator VAR
-   Payrate: $90K/yr
-   Employer name/address/phone/URL: http://www.linkedin.com
-   Person Contacted: David Talamo Financial MGR
+   Employer name/address/phone/URL: RetirementJobs.com/Wayfair https://retirementjobs.com/job/software-engineer-ii-boston-massachusetts-15783128
+   Person Contacted: anonymous
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
-   Results: Connected 
+   Results: Follow up requested
 -
-** <2019-03-27 Wed 19:05> OPPORTUNITY:  MassHire Framingham Colleague 
-   Date: <2019-03-27 Wed 19:05>
+** <2019-04-22 Mon 10:38> OPPORTUNITY: New Horizons / MassHire DBA response
+    Date: <2019-04-22 Mon 10:38> 
+    Position: SQL Server Admin
+    Payrate: $80K/yr
+    Employer name/address/phone/URL: New Horizons
+    Person Contacted: Chris Clifford 1-401-633-3215
+    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: phone
+    Results: Discussed What is Trades program
+ -
+
+** <2019-04-23 Tue 08:15> OPPORTUNITY: Systems Administrator Job Opportunities
+   Date: <2019-04-23 Tue 08:15> 
+   Position: Systems Administrator
+   Payrate:
+   Employer name/address/phone/URL: Monster
+   Person Contacted: Kyle Potter KPotter@advancedtechno.com Monster.com
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
+   Results: Follow up requested
+-
+** <2019-04-23 Tue 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
+   Date: <2019-04-23 Tue 19:05>
    Position: SQL Server DBA
    Payrate: $90K
    Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Frank Yeoung 
+   Person Contacted: Ed Lawrence elawrence@masshiremsw.com  Worcester Rd Framingham MA
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Contact maintenance and discussing opportunities
+   Results:  LEADS: Careers at the Executive Office of Health and Human Services
+-
+** <2019-04-23 Tue 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
+   Date: <2019-04-23 Tue 19:05>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Career Centers
+   Person Contacted: Doug Cole dcole@masshiremsw.com  Worcester Rd Framingham MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results:  Responded to leads and requested appointment for next Tuesday
+-
+** <2019-04-24 Wed 19:05> OPPORTUNITY:  MassHire Framingham Colleague Meeting and Lunch
+   Date: <2019-04-24 Wed 19:05>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
+   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan  Worcester Rd Westboro MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.:  
+   Results: Discuss opportunities
 -
 
-** <2019-03-27 Wed 20:20> OPPORTUNITY: Operations/Project Manager with Salesforce experience at Manchester, NH 03101
-   Date: <2019-03-27 Wed 20:20> 
-   Position: Operations/Project Manager with Salesforce experience
+** <2019-04-24 Wed 23:16> OPPORTUNITY: Urgent requirement of Computer Technician II
+   Date: <2019-04-24 Wed 23:16> 
+   Position: Computer Technician II
    Payrate:
-   Employer name/address/phone/URL: US Tech Solutions.
-   Person Contacted: Kapil Kumar <kapil@ustechsolutions.com> 
+   Employer name/address/phone/URL: US Tech Solutions
+   Person Contacted: Modassir Ahsan <ahsan@ustechsolutionsinc.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
+   Results: Follow up requested 
 -
 
-** <2019-03-27 Wed 20:25> OPPORTUNITY: Deskside Technician Long term contract at Gloucester, MA.
-   Date: <2019-03-27 Wed 20:25> 
-   Position: Deskside Technician
-   Payrate:
-   Employer name/address/phone/URL: ApTask 
-   Person Contacted: Dipak Domane dipakd@aptask.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-** <2019-03-27 Wed 17:58> OPPORTUNITY: Tatnuck Booksellers Group 
-   Date: <2019-03-27 Wed 17:58> 
+** <2019-04-25 Thu 17:58> OPPORTUNITY: Tatnuck Booksellers Group 
+   Date: <2019-04-25 Thu 17:58> 
    Position: Systems Integrator
    Payrate: $90K/yr
-   Employer name/address/phone/URL: Tatnuck Worcester Rd Westboro
-   Person Contacted: David Sullivan and Group tatnuck_group@yahoogroups.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Email reminder of Salesforce event
+   Employer name/address/phone/URL: Tatnuck Booksellers Lyman Rd Westboro
+   Person Contacted: David Sullivan and Group tatnuck_group@yahoogroups.com Lyman Westboro MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In person
+   Results: Status and interview practice
 -
-** <2019-03-28 Thu 20:51> OPPORTUNITY: Are you only open to Consulting opportunities? 
-   Date: <2019-03-28 Thu 20:51> 
-   Position: Web Developer
+** <2019-04-25 Thu 20:01> OPPORTUNITY: Remote Mar com role
+   Date: <2019-04-25 Thu 20:01> 
+   Position: Marcom communications specialist
    Payrate:
-   Employer name/address/phone/URL: Talent Retriever
-   Person Contacted: Leslie Morgan inmail-hit-reply@linkedin.com	
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested 
--
-
-** <2019-03-28 Thu 21:23> OPPORTUNITY: Helpdesk Temp/Perm Job Westborough 
-   Date: <2019-03-28 Thu 21:23> 
-   Position: Helpdesk Temp/Perm
-   Payrate:
-   Employer name/address/phone/URL: The CEI Group 
-   Person Contacted: Daniel DesJardins ddesjardins@theceigroup.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-28 Thu 23:32> OPPORTUNITY: Senior Business Data analyst__Boston, MA(Local Only) 
-   Date: <2019-03-28 Thu 23:32> 
-   Position: Senior Business Data analyst
-   Payrate:
-   Employer name/address/phone/URL:  IDC Technologies Inc
-   Person Contacted: Ritesh Jaiswal <ritesh.j@idctechnologies.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-29 Fri 07:46> OPPORTUNITY: Intermediate Technical Staff - CI2 Aviation Inc - Boston, MA 
-   Date: <2019-03-29 Fri 07:46> 
-   Position: Intermediate Technical Staff 
-   Payrate:
-   Employer name/address/phone/URL: ZipRecruiter
-   Person Contacted: Phil @ ZipRecruiter <phil@ziprecruiter.com>
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-29 Fri 07:54> OPPORTUNITY: LEAD - PT Evening Instructor needed at MassBay Comm College
-   Date: <2019-03-29 Fri 07:54> 
-   Position: PT Evening Instructor
-   Payrate:
-   Employer name/address/phone/URL: MassHire
-   Person Contacted: Ed Lawrence elawrence@masshiresw.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-03-30 Sat 19:57> OPPORTUNITY: Immediate hiring for Test Engineer , St Andover MA
-   Date: <2019-03-30 Sat 19:57> 
-   Position: Test Engineer
-   Payrate:
-   Employer name/address/phone/URL: E TalentNetwork
-   Person Contacted: Jeremy Williams <jeremyw@etalentnetwork.com> 
+   Employer name/address/phone/URL: Alois Staffing LLC
+   Person Contacted: Aman Chauhan <aman.chauhan@aloisstaffing.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
    Results: Follow up requested
 -
+
+** <2019-04-26 Fri 10:06> OPPORTUNITY: Stealth Fintech Start-up hiring Front-end Developers with React
+   Date: <2019-04-26 Fri 10:06> 
+   Position: Front-end Developer
+   Payrate:
+   Employer name/address/phone/URL: US Tech Solutions
+   Person Contacted: Kevin Kim <t.kim@huxley.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
+   Results: Follow up requested
+-
+** <2019-04-26 Fri 17:58> OPPORTUNITY: Tatnuck Booksellers Group and MassHire Colleague 
+   Date: <2019-04-26 Fri 17:58> 
+   Position: Systems Integrator
+   Payrate: $90K/yr
+   Employer name/address/phone/URL: Tatnuck Worcester Rd Westboro
+   Person Contacted: David Sullivan and Group tatnuck_group@yahoogroups.com Lyman Westboro MA, Vic Camilleri
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Exchange of leads
+-
+
+** <2019-04-27 Sat 09:12> OPPORTUNITY: Remote- FTE - Azure DevOps Engineer, Hands-on, up to $180k
+   Date: <2019-04-27 Sat 09:12> 
+   Position: Azure DevOps Engineer, Hands-on
+   Payrate: $180K
+   Employer name/address/phone/URL: Nigel Frank International 
+   Person Contacted: Jack Fischer
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested
+-
+
+** <2019-04-27 Sat 10:36> OPPORTUNITY:  Posted on ZipRecruiter IFS Core Software Release Coordinator 
+   Date: <2019-04-27 Sat 10:36> 
+   Position: Software Release Coordinator 
+   Payrate:  $80,000 to $100,000 Annually
+   Employer name/address/phone/URL: ZipRecruiter
+   Person Contacted: Phil@ziprecruiter.com
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Submitted application
+
 
