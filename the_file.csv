@@ -1,15 +1,23 @@
 Date,Position,Payrate,Employer name/address/phone/URL,Person Contacted,"HOW CONTACTED - Web, phone, mail, job fair, networking, etc.",Results
-<2019-04-22 Mon 12:37>,Database Administrator,,GTIT,Susan G 603.516.4447,phone,Follow up requested
-<2019-04-22 Mon 16:11>,Software Engineer II,,RetirementJobs.com/Wayfair https://retirementjobs.com/job/software-engineer-ii-boston-massachusetts-15783128,anonymous,web,Follow up requested
-<2019-04-22 Mon 10:38>,SQL Server Admin,$80K/yr,New Horizons,Chris Clifford 1-401-633-3215,phone,Discussed What is Trades program
-<2019-04-23 Tue 08:15>,Systems Administrator,,Monster,Kyle Potter KPotter@advancedtechno.com Monster.com,web,Follow up requested
-<2019-04-23 Tue 19:05>,SQL Server DBA,$90K,MassHire Framingham Career Centers,Ed Lawrence elawrence@masshiremsw.com  Worcester Rd Framingham MA,email,LEADS- Careers at the Executive Office of Health and Human Services
-<2019-04-23 Tue 19:05>,SQL Server DBA,$90K,MassHire Framingham Career Centers,Doug Cole dcole@masshiremsw.com  Worcester Rd Framingham MA,email,Responded to leads and requested appointment for next Tuesday
-<2019-04-24 Wed 19:05>,SQL Server DBA,$90K,MassHire Framingham Colleague(s),"Frank Yeoung  frankxyeung@gmail.com, David Sullivan  Worcester Rd Westboro MA",,Discuss opportunities
-<2019-04-24 Wed 23:16>,Computer Technician II,,US Tech Solutions,Modassir Ahsan <ahsan@ustechsolutionsinc.com>,email,Follow up requested
-<2019-04-25 Thu 17:58>,Systems Integrator,$90K/yr,Tatnuck Booksellers Lyman Rd Westboro,David Sullivan and Group tatnuck_group@yahoogroups.com Lyman Westboro MA,In person,Status and interview practice
-<2019-04-25 Thu 20:01>,Marcom communications specialist,,Alois Staffing LLC,Aman Chauhan <aman.chauhan@aloisstaffing.com>,email,Follow up requested
-<2019-04-26 Fri 10:06>,Front-end Developer,,US Tech Solutions,Kevin Kim <t.kim@huxley.com>,email,Follow up requested
-<2019-04-26 Fri 17:58>,Systems Integrator,$90K/yr,Tatnuck Worcester Rd Westboro,"David Sullivan and Group tatnuck_group@yahoogroups.com Lyman Westboro MA, Vic Camilleri",email,Exchange of leads
-<2019-04-27 Sat 09:12>,"Azure DevOps Engineer, Hands-on",$180K,Nigel Frank International,Jack Fischer,email,Follow up requested
-<2019-04-27 Sat 10:36>,Software Release Coordinator,"$80,000 to $100,000 Annually",ZipRecruiter,Phil@ziprecruiter.com,email,Submitted application
+<2019-04-29 Mon 21:50>,SR IT SUPPORT SPECIALIST -HELP DESK,,TER Consulting Group,Phil@Ziprecruiter.com,email,Follow up requested
+<2019-04-23 Tue 19:05>,SQL Server DBA,$90K,MassHire Framingham Career Centers,Ed Lawrence elawrence@masshiremsw.com  Worcester Rd Framingham MA,in person,MassHire Networking Meeting
+<2019-04-23 Tue 19:05>,SQL Server DBA,$90K,MassHire Framingham Career Centers,Doug Cole dcole@masshiremsw.com  Worcester Rd Framingham MA,in person,Meeting with advisor Doug Cole
+<2019-04-24 Wed 19:05>,SQL Server DBA,$90K,MassHire Framingham Colleague(s),"Frank Yeoung  frankxyeung@gmail.com, David Sullivan Main St Westboro MA",,Discuss opportunities
+<2019-05-02 Thu 21:56>,Systems Integrator VAR,$90K/yr,http://www.linkedin.com,Anjali Sharma Recruiter,web,Connected
+<2019-05-02 Thu 21:56>,Systems Integrator VAR,$90K/yr,http://www.linkedin.com,Manisha Recruiter,web,Connected
+<2019-05-02 Thu 06:59>,Hubspot Developer and Implementation Specialist,,"TALENT Software Services, Inc.",Anjali Sharma <anjali.sharma@talentemail.com>,email,Follow up requested
+<2019-05-02 Thu 07:25>,AS400 Programmer Analyst,,Ziprecruiter,Phil@Ziprecruiter.com,email,Follow up requested
+<2019-05-02 Thu 17:58>,Systems Integrator,$90K/yr,Tatnuck Booksellers Lyman Rd Westboro,David Sullivan and Group tatnuck_group@yahoogroups.com Lyman Westboro MA,In person,"Status, elevator speech and ""think on your feet"" workshop"
+<2019-05-03 Fri 08:15>,DevOps Engineer,,US Tech Solutions,Jane Das <Jane.das@ustechsolutionsinc.com>,email,Follow up requested
+<2019-05-03 Fri 08:20>,Full Stack Developers,,"Dimensional Thinking, LLC",Amy Borkar via bullhornmail.com,email,Follow up requested
+<2019-05-03 Fri 08:25>,SQL DBA,,"Next Level Business Services, Inc.,",Shubhangi Gautam <shubhangi.gautam@nlbservices.com>,email,Follow up requested
+<2019-05-03 Fri 08:30>,Agile Product Manager,,Mondo,Jason Weinstein jason.weinstein@mondo.com,email,Follow up requested
+<2019-05-03 Fri 08:35>,Governance & Risk Spec II,,www.ustechsolutions.com,Birkaran Singh Birkaran@ustechsolutionsinc.com,email,Follow up requested
+<2019-05-03 Fri 08:40>,HubSpot Developer,,www.arksolutionsinc.com/,Dominic Gates  dominic.g@arksolutionsinc.com,email,Follow up requested
+<2019-05-03 Fri 08:54>,Marketing Analyst,,Axelon Services Corporation,Tia Howard <tia.howard@axelon.com>,email,Follow up requested
+<2019-05-03 Fri 08:58>,MaHIX Application Developer and Administrator,,www.vlinkinfo.com/,Pragya Choudhary pragya@vlinkinfo.com,email,Follow up requested
+<2019-05-03 Fri 09:03>,Software Development Engineer in Test - 19-00965,,"Global Technical Talent, Inc",Lauren Kinton <lkinton@gttit.com,email,Follow up requested
+<2019-05-03 Fri 09:08>,Site Reliability Engineer/Sr Software Support Engineer,,"Dimensional Thinking, LLC",Amy Borkar Amy.Borkar@dtglobalstaffing.com,email,Follow up requested
+<2019-05-03 Fri 09:13>,SQL DBA,,Artech Information Systems LLC,Kumari Manisha <Kumari.Manisha@artech.com>,email,Follow up requested
+<2019-05-03 Fri 09:17>,Systems Administrator,,Collabera Inc,Indira Deshpande <indira.deshpande@collabera.com>,email,Follow up requested
+<2019-05-04 Sat 09:21>,JUNIOR LEVEL QA Tester,,Axelon Services Corporation,Candice Perkins <candice.perkins@axelon.com>,email,Follow up requested
