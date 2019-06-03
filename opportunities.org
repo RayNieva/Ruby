@@ -3,89 +3,60 @@
 ---
 -
 * Opportunities Starting April 07, 2019
-** <2019-05-20 Mon 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
-   Date: <2019-05-20 Mon 19:05>
-   Position: SQL Server DBA
-   Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Carlos @masshiremsw.com  Worcester Rd Framingham MA
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: in person
-   Results: RESEA compliance meeting
+** <2019-05-28 Tue 19:35> OPPORTUNITY: Field Service Computer Tech. - Massachusetts (All Over MA)
+   Date: <2019-05-28 Tue 19:31> 
+   Position: Field Service Computer Tech
+   Payrate: $14/hr
+   Employer name/address/phone/URL: CraigsList https://worcester.craigslist.org/tch/d/field-service-computer-tech/6890668643.html
+   Person Contacted: Anonymous 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web 
+   Results: Follow-up requested 
 -
-** <2019-05-22 Wed 19:05> OPPORTUNITY:  MassHire Framingham Colleague Meeting and Lunch
-   Date: <2019-05-22 Wed 19:05>
+
+** <2019-05-29 Wed 10:00> OPPORTUNITY:  MassHire Framingham Colleague Meeting and Lunch
+   Date: <2019-05-29 Wed 10:00>
    Position: SQL Server DBA
    Payrate: $90K
    Employer name/address/phone/URL: MassHire Framingham Colleague(s)
-   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Main St Westboro MA
+   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.:  
    Results: Discuss opportunities
 -
-** <2019-05-23 Thu 21:56> OPPORTUNITY: LinkedIN
-   Date: <2019-05-16 Thu 21:56>
-   Position: Systems Integrator VAR
+** <2019-05-30 Thu 10:00> OPPORTUNITY: Tatnuck Booksellers Group 
+   Date: <2019-05-30 Thu 10:00> 
+   Position: Systems Integrator
    Payrate: $90K/yr
-   Employer name/address/phone/URL: http://www.linkedin.com
-   Person Contacted: Pamela Bogdanski 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
-   Results: Connected 
+   Employer name/address/phone/URL: Tatnuck Booksellers Lyman Rd Westboro
+   Person Contacted: David Sullivan and Group tatnuck_group@yahoogroups.com Lyman Westboro MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In person
+   Results: Status, Miscellaneous job activities 
 -
-** <2019-05-23 Thu 19:05> OPPORTUNITY:  MassHire Framingham Career Centers
-   Date: <2019-05-23 Thu 19:05>
-   Position: Part-time Auditor
-   Payrate: 
-   Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Doug Cole  dcole@masshiremsw.com  and Eric Fernandes Worcester Rd Framingham MA
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: in person
-   Results: Sent resume again to Doug and Eric
--
-** <2019-05-24 Fri 09:20> OPPORTUNITY: MS Senior Systems Administrator - CSS, Inc. - Newton, MA 
-   Date: <2019-05-24 Fri 09:20> 
-   Position: MS Senior Systems Administrator
-   Payrate: $85,000 - $105,000 annual (USD)
-   Employer name/address/phone/URL: CSS, Inc
-   Person Contacted: Phil @ ZipRecruiter <phil@ziprecruiter.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow Up Requested
--
-
-** <2019-05-25 Sat 17:23> OPPORTUNITY: Job Description : : .Net Developer :: Location :: Bedford, Massachusetts
-   Date: <2019-05-25 Sat 17:23> 
-   Position: .Net Developer
+** <2019-05-31 Fri 18:20> OPPORTUNITY: Job Openings for Desktop Support (Retail) @ Framingham MA 01701----Please Respond
+   Date: <2019-05-31 Fri 18:20> 
+   Position: Desktop Support
    Payrate:
-   Employer name/address/phone/URL: Nityo Infotech Corporation
-   Person Contacted: Vikas Yadav <vikas.y@nityo.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up requested
--
-
-** <2019-05-25 Sat 08:18> OPPORTUNITY: Needed - 39602- Network Engineer- 3 months- Manchester MA
-   Date: <2019-05-25 Sat 08:18> 
-   Position: Network Engineer
-   Payrate:
-   Employer name/address/phone/URL: Sigma Systems
-   Person Contacted: Kyle Joseph <kjoseph@sigmainc.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up requested
--
-
-** <2019-05-25 Sat 08:24> OPPORTUNITY: Senior/Principal Android Engineer - $150-$200k + Stock!
-   Date: <2019-05-25 Sat 08:24> 
-   Position: Senior/Principal Android Engineer  
-   Payrate: $150-$200k + Stock
-   Employer name/address/phone/URL: Mason Frank International
-   Person Contacted: Erica Schroen  inmail-hit-reply@linkedin.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Employer name/address/phone/URL: Sun Technologies
+   Person Contacted: Dev Prasad <deva@suntechnologies.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
    Results: Follow-up requested  
 -
 
-** <2019-05-25 Sat 08:30> OPPORTUNITY: Product Marketing Manager - Boston, MA
-   Date: <2019-05-25 Sat 08:30> 
-   Position:  Product Marketing Manager
+** <2019-06-01 Sat 16:57> OPPORTUNITY: Looking for Mac Desktop support engineer
+   Date: <2019-06-01 Sat 16:57> 
+   Position: Mac Desktop support engineer
    Payrate:
-   Employer name/address/phone/URL: http://www.mondo.com/
-   Person Contacted: Jasmine Miller <jasmine.miller@mondo.com> 
+   Employer name/address/phone/URL: Whiz Global LLC
+   Person Contacted: Anuj Marwaha <anuj@whizglobal.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
    Results: Follow-up requested 
+-
 
+** <2019-06-01 Sat 17:05> OPPORTUNITY:  MassHire Framingham Career Centers
+   Date: <2019-06-01 Sat 17:05>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Career Centers
+   Person Contacted: Eric Fernandes eric.fernandez@state.ma.us Worcester Rd Framingham MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Contacted re- positions at Spencer Technologies
 
