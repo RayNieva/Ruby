@@ -3,27 +3,65 @@
 ---
 -
 * Opportunities Starting April 07, 2019
-** <2019-05-28 Tue 19:35> OPPORTUNITY: Field Service Computer Tech. - Massachusetts (All Over MA)
-   Date: <2019-05-28 Tue 19:31> 
-   Position: Field Service Computer Tech
-   Payrate: $14/hr
-   Employer name/address/phone/URL: CraigsList https://worcester.craigslist.org/tch/d/field-service-computer-tech/6890668643.html
-   Person Contacted: Anonymous 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web 
-   Results: Follow-up requested 
+** <2019-06-03 Mon 10:20> OPPORTUNITY:  MassHire Framingham Career Centers
+   Date: <2019-06-03 Mon 10:20>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Career Centers
+   Person Contacted: Eric Fernandes eric.fernandez@state.ma.us Worcester Rd Framingham MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Eric responded and followed-up 
 -
-
-** <2019-05-29 Wed 10:00> OPPORTUNITY:  MassHire Framingham Colleague Meeting and Lunch
-   Date: <2019-05-29 Wed 10:00>
+** <2019-06-03 Mon 18:00> OPPORTUNITY:  MassHire Framingham Colleague Meeting Dinner Meeting 
+   Date: <2019-06-03 Mon 18:00>
    Position: SQL Server DBA
    Payrate: $90K
    Employer name/address/phone/URL: MassHire Framingham Colleague(s)
    Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.:  
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.:  In person
    Results: Discuss opportunities
 -
-** <2019-05-30 Thu 10:00> OPPORTUNITY: Tatnuck Booksellers Group 
-   Date: <2019-05-30 Thu 10:00> 
+** <2019-06-04 Tue 11:15> OPPORTUNITY:  MassHire Framingham Career Centers
+   Date: <2019-06-04 Tue 11:15>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Career Centers
+   Person Contacted: Eric Fernandes eric.fernandez@state.ma.us Worcester Rd Framingham MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Informed Eric Job(s) does not exist on website
+-
+
+** <2019-06-04 Tue 07:50> OPPORTUNITY: Administrator - Windows SQL Server  
+   Date: <2019-06-04 Tue 07:50> 
+   Position: Administrator - Windows SQL Server 
+   Payrate:  $75,000 Annually
+   Employer name/address/phone/URL: Distributed Technology Associates Inc 
+   Person Contacted: Phil@Ziprecruiter.com
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Submitted application
+-
+
+** <2019-06-04 Tue 14:55> OPPORTUNITY:  MassHire Framingham Colleague 
+   Date: <2019-06-04 Tue 14:55>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
+   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
+   Results: Discuss opportunities
+-
+
+** <2019-06-05 Wed 10:00> OPPORTUNITY:  MassHire Framingham Colleague Meeting and Lunch
+   Date: <2019-06-05 Wed 10:00>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
+   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
+   Results: Discuss opportunities
+-
+** <2019-06-06 Thu 10:00> OPPORTUNITY: Tatnuck Booksellers Group 
+   Date: <2019-06-06 Thu 10:00> 
    Position: Systems Integrator
    Payrate: $90K/yr
    Employer name/address/phone/URL: Tatnuck Booksellers Lyman Rd Westboro
@@ -31,32 +69,53 @@
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In person
    Results: Status, Miscellaneous job activities 
 -
-** <2019-05-31 Fri 18:20> OPPORTUNITY: Job Openings for Desktop Support (Retail) @ Framingham MA 01701----Please Respond
-   Date: <2019-05-31 Fri 18:20> 
-   Position: Desktop Support
-   Payrate:
-   Employer name/address/phone/URL: Sun Technologies
-   Person Contacted: Dev Prasad <deva@suntechnologies.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
-   Results: Follow-up requested  
+** <2019-06-06 Thu 15:00> OPPORTUNITY: LinkedIN
+   Date: <2019-06-06 Thu 15:00>
+   Position: Systems Integrator VAR
+   Payrate: $90K/yr
+   Employer name/address/phone/URL: http://www.linkedin.com
+   Person Contacted: Cory & Ira Mojo Global <customercare@gotowebinar.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email web
+   Results: Attended Webinar
 -
 
-** <2019-06-01 Sat 16:57> OPPORTUNITY: Looking for Mac Desktop support engineer
-   Date: <2019-06-01 Sat 16:57> 
-   Position: Mac Desktop support engineer
-   Payrate:
-   Employer name/address/phone/URL: Whiz Global LLC
-   Person Contacted: Anuj Marwaha <anuj@whizglobal.com> 
+** <2019-06-07 Fri 21:59> OPPORTUNITY: Senior System Admin Needed in Marlborough for a Direct Hire opportunity
+   Date: <2019-06-07 Fri 21:59> 
+   Position: Sr. System Administrator
+   Payrate:  $110,000-$120,000
+   Employer name/address/phone/URL: http://www.nescoresource.com/
+   Person Contacted: Kyle Hughes <khughes@nescoresource.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
    Results: Follow-up requested 
 -
 
-** <2019-06-01 Sat 17:05> OPPORTUNITY:  MassHire Framingham Career Centers
-   Date: <2019-06-01 Sat 17:05>
+** <2019-06-07 Fri 22:03> OPPORTUNITY: Full Time Role | Senior Data Engineer | Westboro, MA 
+   Date: <2019-06-07 Fri 22:03> 
+   Position: Senior Data Engineer
+   Payrate:
+   Employer name/address/phone/URL: Dimensional Thinking, LLC
+   Person Contacted: Amy Borkar via bullhornmail.com   Amy.Borkar@dtglobalstaffing.com
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow-up requested 
+-
+
+** <2019-06-07 Fri 22:06> OPPORTUNITY: Database Administrator in Boston Massachusetts 
+   Date: <2019-06-07 Fri 22:06> 
+   Position: SQL Server Admin
+   Payrate:
+   Employer name/address/phone/URL: Indotronix International Corporation
+   Person Contacted: Sharon Kola <sharon@iic.com> 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow-up requested 
+-
+
+
+** <2019-06-08 Sat 14:05> OPPORTUNITY:  MassHire Framingham Colleague 
+   Date: <2019-06-08 Sat 14:05>
    Position: SQL Server DBA
    Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Career Centers
-   Person Contacted: Eric Fernandes eric.fernandez@state.ma.us Worcester Rd Framingham MA
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Contacted re- positions at Spencer Technologies
+   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
+   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
+   Results: Discuss opportunities
 
