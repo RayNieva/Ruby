@@ -3,134 +3,60 @@
 ---
 -
 * Opportunities Starting April 07, 2019
-** <2019-06-17 Mon 10:00> OPPORTUNITY:  MassHire Framingham Colleague Meeting and Breakfast
-   Date: <2019-06-17 Mon 10:00>
+** <2019-06-24 Mon 13:30> OPPORTUNITY:  MassHire Framingham Colleague Meeting 
+   Date: <2019-06-24 Mon 13:30>
    Position: SQL Server DBA
    Payrate: $90K
    Employer name/address/phone/URL: MassHire Framingham Colleague(s)
    Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
    Results: Discuss opportunities
-** <2019-06-18 Tue 08:10> OPPORTUNITY:  MassHire Framingham Colleague 
-   Date: <2019-06-18 Tue 08:10>
+-
+** <2019-06-25 Tue 10:30> OPPORTUNITY:  MassHire Framingham Colleagues 
+   Date: <2019-06-25 Tue 10:30>
    Position: SQL Server DBA
    Payrate: $90K
    Employer name/address/phone/URL: MassHire Framingham Colleague(s)
    Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
    Results: Discuss opportunities
 -
-** <2019-06-18 Tue 15:25> OPPORTUNITY: Re: BondLink opportunity referred by ZipRecruiter
-   Date: <2019-06-18 Tue 15:25> 
-   Position:  IT Support Engineer (Part Time) 
-   Payrate:
-   Employer name/address/phone/URL: BondLink
-   Person Contacted: Kristin Patrick <candidate-0ca890b566e2@bondlink.breezy-mail.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Position has been filled
--
-
-** <2019-06-18 Tue 21:28> OPPORTUNITY: Insight Global Opportunity - Top DoD Client! 
-   Date: <2019-06-18 Tue 21:28> 
-   Position: Application Support Admin
-   Payrate:
-   Employer name/address/phone/URL: Insight Global, LLC
-   Person Contacted: Sami Dobbs <Sami.Dobbs@insightglobal.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested 
--
-
-** <2019-06-18 Tue 21:46> OPPORTUNITY:  Requirement for Senior Data Cloud Engineer - Boston, MA or Merrimack, NH
-   Date: <2019-06-18 Tue 21:46> 
-   Position:  Senior Data Cloud Engineer 
-   Payrate:
-   Employer name/address/phone/URL: TalentBurst, Inc. 
-   Person Contacted: Sushil Ray <sushil.ray@talentburst.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up requested 
--
-
-** <2019-06-18 Tue 22:01> OPPORTUNITY: Web Designer-Marketing II - Burlington, MA - 1 month contract with opportunity to extend 
-   Date: <2019-06-18 Tue 22:01> 
-   Position:  Web Designer-Marketing II
-   Payrate:
-   Employer name/address/phone/URL:  www.matrixonweb.com
-   Person Contacted: Vivek Tiwari_FR_JAN2019 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up requested 
--
-
-** <2019-06-18 Tue 22:13> OPPORTUNITY: DevOps Opening- Boston, MA- Full-Time
-   Date: <2019-06-18 Tue 22:13> 
-   Position: Sr DevOps Engineer
-   Payrate:
-   Employer name/address/phone/URL: Huxley IT
-   Person Contacted: Eric Morra 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up requested 
--
-
-** <2019-06-18 Tue 22:19> OPPORTUNITY: Sr. Software Engineer opportunity in Boston - $110k base salary
-   Date: <2019-06-18 Tue 22:19> 
-   Position: Sr DevOps Engineer
-   Payrate: $110k base salary
-   Employer name/address/phone/URL: www.huxleyit.com
-   Person Contacted: Debbie Riva
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow-up requested 
--
-** <2019-06-19 Wed 13:30> OPPORTUNITY:  MassHire Framingham Colleague Meeting 
-   Date: <2019-06-19 Wed 13:30>
+** <2019-06-26 Wed 13:30> OPPORTUNITY:  MassHire Framingham Colleague Meeting 
+   Date: <2019-06-26 Wed 13:30>
    Position: SQL Server DBA
    Payrate: $90K
    Employer name/address/phone/URL: MassHire Framingham Colleague(s)
    Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
    Results: Discuss opportunities
-** <2019-06-20 Thu 10:18> OPPORTUNITY: Insight Global Opportunity - Top DoD Client! 
-   Date: <2019-06-20 Thu 10:18> 
-   Position: Application Support Admin
-   Payrate:
-   Employer name/address/phone/URL: Insight Global, LLC
-   Person Contacted: Sami Dobbs <Sami.Dobbs@insightglobal.com> 781.221.7500  
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: phone
-   Results: Further discussion about potential opportunities
 -
-** <2019-06-20 Thu 09:25> OPPORTUNITY:  MassHire Framingham Colleague 
-   Date: <2019-06-20 Thu 09:25>
-   Position: SQL Server DBA
+
+** <2019-06-27 Thu 10:00> OPPORTUNITY:  Tatnuck Booksellers Networking  Meeting 
+   Date: <2019-06-26 Wed 13:30>
+   Position: Systems Integrator
    Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
-   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email 
-   Results: Discuss opportunities
--
-** <2019-06-21 Fri 19:15> OPPORTUNITY: LinkedIN
-   Date: <2019-06-21 Fri 19:15>
-   Position: Systems Integrator VAR
-   Payrate: $90K/yr
-   Employer name/address/phone/URL: http://www.linkedin.com
-   Person Contacted: 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: web
-   Results: Connected
+   Employer name/address/phone/URL: Tatnuck Booksellers Network Meeting
+   Person Contacted: David Sullivan Lyman St Westboro MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
+   Results: Networking Meeting
 -
 
-** <2019-06-21 Fri 20:12> OPPORTUNITY:  Client Support Specialist 
-   Date: <2019-06-21 Fri 20:12> 
-   Position: Client Support Specialist 
+** <2019-06-28 Fri 11:00> OPPORTUNITY: MassHire Framingham Colleague Meeting
+   Date: <2019-06-28 Fri 11:00> 
+   Position: SQL Server DBA
    Payrate:
-   Employer name/address/phone/URL: Serraview America
-   Person Contacted: Phil phil@ziprecruiter.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
+   Employer name/address/phone/URL: MassHire Framingham Colleague Meeting & Lunch
+   Person Contacted: Frank Yeoung and Davidson Eastern Ave Chan Malden MA
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In person
+   Results: Discussed opportunities
 -
 
-** <2019-06-22 Sat 21:13> OPPORTUNITY:  IT Systems Administrator - Mayflower Communications Company, Inc. - Bedford, MA 
-   Date: <2019-06-22 Sat 21:13> 
-   Position: Systems Administrator
-   Payrate:
-   Employer name/address/phone/URL: Mayflower Communications Company
-   Person Contacted: Phil @ ZipRecruiter <phil@ziprecruiter.com
+** <2019-06-29 Sat 19:05> OPPORTUNITY: Programmer position at AllStar Staffing 
+   Date: <2019-06-29 Sat 19:05> 
+   Position: Programmer Position
+   Payrate: 
+   Employer name/address/phone/URL:  AllStar Staffing 
+   Person Contacted: Phil @ ZipRecruiter <phil@ziprecruiter.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
    Results: Follow up requested
 
