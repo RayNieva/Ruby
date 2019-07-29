@@ -1,114 +1,76 @@
 
+#+TITLE: Opportunities - Jobs and/or Sales Prospects
 ** Code:
 ---
 -
-* Opportunities Starting April 07, 2019
-** <2019-07-14 Sun 08:30> OPPORTUNITY:  MassHire Framingham Colleague Meeting 
-   Date: <2019-07-14 Sun 08:30>
-   Position: SQL Server DBA
-   Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
-   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
-   Results: Discuss opportunities
--
-
-** <2019-07-15 Mon 21:10> OPPORTUNITY:  Tech Support Rep - Company Confidential
-   Date: <2019-07-15 Mon 21:10>   
-   Position: Technical Support Representative
-   Payrate:
-   Employer name/address/phone/URL:  Company Confidential - Marlborough, MA, USA 
-   Person Contacted: Phil phil@ziprecruiter.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: No work position closed
--
-
-** <2019-07-16 Tue 20:00> OPPORTUNITY: Urgent requirement for the position of Jr Lab Engineer in Boxborough, MA
-   Date: <2019-07-16 Tue 20:00> 
-   Position: Jr Lab Engineer
-   Payrate: $40/hr
-   Employer name/address/phone/URL: http://email.etalentnetwork.com/
-   Person Contacted: Kulwinder Singh  kulwinders@etalentnetwork.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-07-16 Tue 20:20> OPPORTUNITY: Fullstack PHP Developer :: Boston, MA :: 6+ Months (CTH)
-   Date: <2019-07-16 Tue 20:20> 
-   Position: Fullstack PHP Developer
-   Payrate:
-   Employer name/address/phone/URL: AIT Global Inc.
-   Person Contacted: Abhishek Sharma <abhishek@aitglobalinc.com> 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-07-16 Tue 20:39> OPPORTUNITY:  Urgent need of System Consultant (IAM) in Springfield, MA - Direct Client
-   Date: <2019-07-16 Tue 20:39> 
-   Position: System Consultant
-   Payrate:
-   Employer name/address/phone/URL: TalentBurst, Inc. 
-   Person Contacted: Prakash Kumar prakash.kumar@talentburst.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-07-17 Wed 13:30> OPPORTUNITY:  MassHire Framingham Colleague Meeting 
-   Date: <2019-07-17 Wed 13:30>
-   Position: SQL Server DBA
-   Payrate: $90K
-   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
-   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, David Sullivan Boston Post Rd Marlboro MA
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
-   Results: Discuss opportunities
--
-** <2019-07-18 Thu 07:30> OPPORTUNITY:  MassHire Metro South/West Career Center Weekly Job/Event List
-   Date: <2019-07-18 Thu 07:30> 
-   Position: Multiple Positions
-   Payrate:
-   Employer name/address/phone/URL: MassHire Events/Jobfairs
-   Person Contacted: smarshall@masshiremsw.com
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
--
-
-** <2019-07-18 Thu 10:00> OPPORTUNITY:  Tatnuck Booksellers Networking  Meeting 
-   Date: <2019-07-18 Thu 10:00>
+** <2019-07-22 Mon 09:45> OPPORTUNITY:  Tatnuck Booksellers Networking Colleague 
+   Date: <2019-07-22 Mon 09:45>
    Position: Systems Integrator
    Payrate: $90K
-   Employer name/address/phone/URL: Tatnuck Booksellers Network Meeting
-   Person Contacted: David Sullivan Lyman St Westboro MA
+   Employer name/address/phone/URL: Tatnuck Booksellers Network Colleague
+   Person Contacted: Chris Bradley
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
-   Results: Networking Meeting
+   Results: Referral contact Tony Merlino
 -
-** <2019-07-18 Thu 17:05> OPPORTUNITY:  NXT STEPS Thank you for applying to the Hardware Field Service Engineer position with F2OnSite
-   Date: <2019-07-18 Thu 17:05> 
+** <2019-07-22 Mon 13:30> OPPORTUNITY:  MassHire Framingham Colleague Meeting 
+   Date: <2019-07-22 Mon 13:30>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
+   Person Contacted: Frank Yeoung  frankxyeung@gmail.com David Sullivan Boston Post Rd Marlborough
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
+   Results: Discuss opportunities
+-
+** <2019-07-22 Mon 09:44> OPPORTUNITY: Network with Recruiter Tony Merlino 
+   Date: <2019-07-22 Mon 09:44> 
+   Position: IT Professional
+   Payrate: 
+   Employer name/address/phone/URL: Overture Partners, LLC
+   Person Contacted: Tony Melino 617-614-9600 x 129 tmelino@overturepartners.com
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
+   Results: Follow up requested 
+- 
+** <2019-07-23 Tue 09:44> OPPORTUNITY: Network with Recruiter Tony Merlino 
+   Date: <2019-07-23 Tue 09:44> 
+   Position: IT Professional
+   Payrate: 
+   Employer name/address/phone/URL: Overture Partners, LLC
+   Person Contacted: Tony Merlino 617-614-9600 x 129 
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: phone
+   Results: Follow up requested 
+-
+** <2019-07-24 Wed 08:30> OPPORTUNITY:  MassHire Framingham Colleague Meeting 
+   Date: <2019-07-24 Wed 08:30>
+   Position: SQL Server DBA
+   Payrate: $90K
+   Employer name/address/phone/URL: MassHire Framingham Colleague(s)
+   Person Contacted: Frank Yeoung  frankxyeung@gmail.com David Sullivan Boston Post Rd Marlborough
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
+   Results: Discuss opportunities
+
+** <2019-07-25 Thu 15:00> OPPORTUNITY: LinkedIN
+   Date: <2019-07-25 Thu 15:00>
+   Position: Systems Integrator VAR
+   Payrate: $90K/yr
+   Employer name/address/phone/URL: http://www.linkedin.com
+   Person Contacted: Tony Melino Recruiter
+   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email web
+   Results: Connected
+-
+** <2019-07-26 Fri 09:00> OPPORTUNITY:  NXT STEPS Thank you for applying to the Hardware Field Service Engineer position with F2OnSite
+   Date: <2019-07-19 Fri 09:00> 
    Position: Hardware Field Service Engineer 
    Payrate:
    Employer name/address/phone/URL: F2OnSite
    Person Contacted:  Vivian Quiros <vivian@f2onsite.com> 
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: email
-   Results: Follow up requested
+   Results: On-hold
 -
-** <2019-07-19 Fri 12:00> OPPORTUNITY: Community Health Connections Network Opportunity
-   Date: <2019-07-19 Fri 12:00>
-   Position: System Integrator VAR
-   Payrate: $90K
-   Employer name/address/phone/URL: CHC 67 Scott Rd Fitchburg (BBQ Outing)
-   Person Contacted: Joe Cosowisc 
-   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
-   Results: Discuss opportunities gave out card
--
-
-** <2019-07-19 Fri 19:00> OPPORTUNITY:  MassHire Framingham Colleague Meeting 
-   Date: <2019-07-19 Fri 19:00>
+** <2019-07-26 Fri 18:30> OPPORTUNITY:  MassHire Framingham Colleague Get Together 
+   Date: <2019-07-26 Fri 18:30>
    Position: SQL Server DBA
    Payrate: $90K
    Employer name/address/phone/URL: MassHire Framingham Colleague(s)
-   Person Contacted: Frank Yeoung  frankxyeung@gmail.com, Lincoln St Leominster 
+   Person Contacted: Frank Yeoung  frankxyeung@gmail.com David Sullivan Worcester Rd Framingham
    HOW CONTACTED - Web, phone, mail, job fair, networking, etc.: In Person
-   Results: Discuss opportunities
-
-
-
-
+   Results: Discuss opportunities and party
